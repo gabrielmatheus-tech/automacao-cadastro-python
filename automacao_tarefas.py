@@ -6,7 +6,7 @@ pyautogui.PAUSE = 0.8
 
 
 pyautogui.press("win")
-pyautogui.write("brave")
+pyautogui.write("chrome")
 pyautogui.press("enter")
 
 pyautogui.write(link)
